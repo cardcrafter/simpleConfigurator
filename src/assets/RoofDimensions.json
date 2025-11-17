@@ -1,0 +1,21 @@
+{
+    "eaveWidth":0.45,
+    "eaveLength":0.4,
+    "roofThick":0.02,
+    "rafterThick":0.095,
+    "rafterWidth":0.045,
+    "purlinThick":0.045,
+    "purlinWidth":0.095,
+    "ceilingJoistThick":0.095,
+    "ceilingJoistWidth":0.045,
+    "webTimberWidth":0.035,
+    "soffitThick" : 0.02,
+    "boundPanelThick" : 0.02,
+    "boundPanelWidth" : 0.15,
+    "edgePanelThick" : 0.02,
+    "edgePanelWidth" : 0.1,
+    "tileEdgeThick" : 0.005,
+    "tileEdgeWidth" : 0.05,
+    "tileEdgeMetalThick" : 0.06,
+    "tileEdgeMetalWidth" : 0.08
+}

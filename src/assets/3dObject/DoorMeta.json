@@ -1,0 +1,62 @@
+[
+  {
+    "type": "door",
+    "name": "doorM12",
+    "image": "/assets/Door/d10_21_1.webp",
+    "model": "/assets/Door/d10_21_1.glb",
+    "price": 150,
+    "width": 1,
+    "height": 2.1,
+    "depth": 0.15
+  },
+  {
+    "type": "door",
+    "name": "doorM12",
+    "image": "/assets/Door/d10_21_2.webp",
+    "model": "/assets/Door/d10_21_2.glb",
+    "price": 150,
+    "width": 1,
+    "height": 2.1,
+    "depth": 0.15
+  },
+  {
+    "type": "door",
+    "name": "doorM12",
+    "image": "/assets/Door/d10_21_3.webp",
+    "model": "/assets/Door/d10_21_3.glb",
+    "price": 150,
+    "width": 1,
+    "height": 2.1,
+    "depth": 0.15
+  },
+  {
+    "type": "door",
+    "name": "doorM12",
+    "image": "/assets/Door/d10_21_4.webp",
+    "model": "/assets/Door/d10_21_4.glb",
+    "price": 150,
+    "width": 1,
+    "height": 2.1,
+    "depth": 0.15
+  },
+  {
+    "type": "door",
+    "name": "doorM25",
+    "image": "/assets/Door/dslagport.webp",
+    "model": "/assets/Door/dslagport.glb",
+    "price": 150,
+    "width": 2.5,
+    "height": 2.1,
+    "depth": 0.25
+  },
+  {
+    "type": "door",
+    "name": "doorM25",
+    "image": "/assets/Door/dtakskjutport.webp",
+    "model": "/assets/Door/dtakskjutport.glb",
+    "price": 150,
+    "width": 2.5,
+    "height": 2.1,
+    "depth": 0.15
+  }
+]

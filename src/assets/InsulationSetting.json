@@ -1,0 +1,50 @@
+{
+    "wall": [
+        {
+            "name": "None",
+            "value": 0,
+            "price": 0,
+            "src": "/isoluation/default.png"
+        },
+        {
+            "name": "95mm",
+            "value": 0.095,
+            "price": 4900,
+            "src": "/isoluation/default.png"
+        },
+        {
+            "name": "95mm + 45mm",
+            "value": 0.14,
+            "price": 9400,
+            "src": "/isoluation/default.png"
+        }
+
+    ],
+    "roof": [
+        {
+            "name": "None",
+            "value": 0,
+            "price": 0,
+            "src": "/isoluation/default.png"
+        },
+        {
+            "name": "145mm",
+            "value": 0.145,
+            "price": 6200,
+            "src": "/isoluation/default.png"
+        },
+        {
+            "name": "195mm",
+            "value": 0.195,
+            "price": 6500,
+            "src": "/isoluation/default.png"
+        },
+        {
+            "name": "340mm",
+            "value": 0.34,
+            "price": 8700,
+            "src": "/isoluation/default.png"
+        }
+
+    ]
+}

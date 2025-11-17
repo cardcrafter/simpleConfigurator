@@ -1,0 +1,173 @@
+{
+  "panel": [
+    {
+      "name": "Untreated",
+      "color": "#FBDBBC"
+    },
+    {
+      "name": "White Primed",
+      "color": "#ffffff"
+    }
+  ],
+  "bottom":{
+    "thickness": 0.2,
+    "color":"#AAA385"
+  },
+  "roof": [
+    {
+      "name": "None",
+      "colors": [],
+      "texture": "",
+      "price": 0,
+      "modules": [
+        {
+          "model": "",
+          "width": 0,
+          "length": 0
+        }
+      ]
+    },
+    {
+      "name": "TP",
+      "colors": [
+        "#191919",
+        "#AA4A44",
+        "#782821",
+        "#FFFFFF"
+      ],
+      "texture": "/roof/tp-profil-svart.png",
+      "price": 15200,
+      "modules": [
+        {
+          "model": "/assets/Roof/tile_TP2.glb",
+          "width": 0.3,
+          "length": 1
+        },
+        {
+          "model": "/assets/Roof/crest_plate2.glb",
+          "width": 0.2,
+          "length": 1
+        }
+      ]
+    },
+    {
+      "name": "Plegel",
+      "colors": [
+        "#191919",
+        "#AA4A44",
+        "#782821",
+        "#C0C0C0"
+      ],
+      "texture": "/roof/tegelprofil-svart.png",
+      "price": 18300,
+      "modules": [
+        {
+          "model": "/assets/Roof/tile_plegel2.glb",
+          "width": 0.15,
+          "length": 0.25
+        },
+        {
+          "model": "/assets/Roof/crest_plegel_r2.glb",
+          "width": 0.15,
+          "length": 0.3
+        }
+      ]
+    },
+    {
+      "name": "Classic Plain",
+      "colors": [
+        "#000000",
+        "#AA4A44",
+        "#782821",
+        "#C0C0C0",
+        "#BAC4C8",
+        "#383E42",
+        "#6C7A86",
+        "#70B596"
+      ],
+      "texture": "/roof/bandtaeckning-svart.png",
+      "price": 26800,
+      "modules": [
+        {
+          "model": "/assets/Roof/tile_classic2.glb",
+          "width": 0.3,
+          "length": 1
+        },
+        {
+          "model": "/assets/Roof/crest_plate2.glb",
+          "width": 0.2,
+          "length": 1
+        }
+      ]
+    }
+  ],
+  "gutter": [
+    {
+      "name": "No",
+      "colors": [],
+      "map": "",
+      "price": 0,
+      "modules": [
+        {
+          "name": "",
+          "model": "",
+          "price": 0,
+          "width": 0,
+          "height": 0,
+          "depth": 0
+        }
+      ]
+    },
+    {
+      "name": "Yes",
+      "colors": [
+        "#1A1B1A",
+        "#FFFFFF"
+      ],
+      "map": "/roof/gutter.png",
+      "price": 8400,
+      "modules": [
+        {
+          "name": "elbow",
+          "model": "/assets/Roof/elbow.glb",
+          "price": 150,
+          "width": 0.5,
+          "height": 1.2,
+          "depth": 0.15
+        },
+        {
+          "name": "gutter_l_front",
+          "model": "/assets/Roof/gutter_l_front.glb",
+          "price": 150,
+          "width": 1,
+          "height": 0.6,
+          "depth": 0.15
+        },
+        {
+          "name": "gutter_r_front",
+          "model": "/assets/Roof/gutter_r_front.glb",
+          "price": 150,
+          "width": 1,
+          "height": 1.2,
+          "depth": 0.15
+        },
+        {
+          "name": "gutter_upper_front",
+          "model": "/assets/Roof/gutter_upper_front.glb",
+          "price": 150,
+          "width": 1.0,
+          "height": 1.2,
+          "depth": 0.15
+        },
+        {
+          "name": "tube",
+          "model": "/assets/Roof/tube.glb",
+          "price": 150,
+          "width": 1.0,
+          "height": 1.8,
+          "depth": 0.15
+        }
+      ]
+    }
+  ]
+}

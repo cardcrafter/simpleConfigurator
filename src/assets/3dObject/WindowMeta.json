@@ -1,0 +1,112 @@
+[
+  {
+    "type": "window",
+    "name": "w5_5_2",
+    "image": "/assets/Window/w5_5_2.webp",
+    "model": "/assets/Window/w5_5_2.glb",
+    "price": 100,
+    "width": 0.5,
+    "height": 0.5,
+    "depth": 0.15,
+    "posY": 0
+  },
+  {
+    "type": "window",
+    "name": "w5_5_4",
+    "image": "/assets/Window/w5_5_4.webp",
+    "model": "/assets/Window/w5_5_4.glb",
+    "price": 150,
+    "width": 0.5,
+    "height": 0.5,
+    "depth": 0.15,
+    "posY": 0
+  },
+  {
+    "type": "window",
+    "name": "w5_12",
+    "image": "/assets/Window/w5_12.webp",
+    "model": "/assets/Window/w5_12.glb",
+    "price": 150,
+    "width": 0.5,
+    "height": 1.2,
+    "depth": 0.15,
+    "posY": 0
+  },
+  {
+    "type": "window",
+    "name": "w5_12_2",
+    "image": "/assets/Window/w5_12_2.webp",
+    "model": "/assets/Window/w5_12_2.glb",
+    "price": 150,
+    "width": 0.5,
+    "height": 1.2,
+    "depth": 0.15,
+    "posY": 0
+  },
+  {
+    "type": "window",
+    "name": "w5_18",
+    "image": "/assets/Window/w5_18.webp",
+    "model": "/assets/Window/w5_18.glb",
+    "price": 150,
+    "width": 0.5,
+    "height": 1.8,
+    "depth": 0.15,
+    "posY": 0
+  },
+  {
+    "type": "window",
+    "name": "w10_6",
+    "image": "/assets/Window/w10_6.webp",
+    "model": "/assets/Window/w10_6.glb",
+    "price": 150,
+    "width": 1,
+    "height": 0.6,
+    "depth": 0.15,
+    "posY": 0
+  },
+  {
+    "type": "window",
+    "name": "w10_6_2",
+    "image": "/assets/Window/w10_6_2.webp",
+    "model": "/assets/Window/w10_6_2.glb",
+    "price": 150,
+    "width": 1,
+    "height": 0.6,
+    "depth": 0.15,
+    "posY": 0
+  },
+  {
+    "type": "window",
+    "name": "w10_12",
+    "image": "/assets/Window/w10_12.webp",
+    "model": "/assets/Window/w10_12.glb",
+    "price": 150,
+    "width": 1,
+    "height": 1.2,
+    "depth": 0.15,
+    "posY": 0
+  },
+  {
+    "type": "window",
+    "name": "w10_12_3",
+    "image": "/assets/Window/w10_12_3.webp",
+    "model": "/assets/Window/w10_12_3.glb",
+    "price": 150,
+    "width": 1.0,
+    "height": 1.2,
+    "depth": 0.15,
+    "posY": 0
+  },
+  {
+    "type": "window",
+    "name": "w10_18",
+    "image": "/assets/Window/w10_18.webp",
+    "model": "/assets/Window/w10_18.glb",
+    "price": 150,
+    "width": 1.0,
+    "height": 1.8,
+    "depth": 0.15,
+    "posY": 0
+  }
+]

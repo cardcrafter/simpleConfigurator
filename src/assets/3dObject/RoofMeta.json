@@ -1,0 +1,102 @@
+[
+  {
+    "type": "Plegel",
+    "name": "crest_plegel_l",
+    "path": "/assets/Roof/crest_plegel_l.glb",
+    "price": 100,
+    "width": 0.5,
+    "height": 0.5,
+    "depth": 0.15
+  },
+  {
+    "type": "Plegel",
+    "name": "crest_plegel_r",
+    "path": "/assets/Roof/crest_plegel_r.glb",
+    "price": 150,
+    "width": 0.3,
+    "height": 1,
+    "depth": 0.15
+  },
+  {
+    "type": "Plegel",
+    "name": "facia_plegel",
+    "path": "/assets/Roof/facia_plegel.glb",
+    "price": 150,
+    "width": 0.15,
+    "length": 0.25,
+    "deviation" : 0.0025,
+    "depth": 0.15
+  },
+  {
+    "type": "Classic",
+    "name": "facai_classic",
+    "path": "/assets/Roof/facai_classic.glb",
+    "price": 150,
+    "width": 0.3,
+    "length": 1,
+    "depth": 0.15
+  },
+  {
+    "type": "TP",
+    "name": "facai_TP",
+    "path": "/assets/Roof/facai_TP.glb",
+    "price": 150,
+    "width": 0.3,
+    "length": 1,
+    "depth": 0.15
+  },
+  {
+    "type": "roof_gutter",
+    "name": "elbow",
+    "path": "/assets/Roof/elbow.glb",
+    "price": 150,
+    "width": 0.5,
+    "height": 1.2,
+    "depth": 0.15
+  },
+  {
+    "type": "roof_gutter",
+    "name": "gutter_l_front",
+    "path": "/assets/Roof/gutter_l_front.glb",
+    "price": 150,
+    "width": 1,
+    "height": 0.6,
+    "depth": 0.15
+  },
+  {
+    "type": "roof_gutter",
+    "name": "gutter_r_front",
+    "path": "/assets/Roof/gutter_r_front.glb",
+    "price": 150,
+    "width": 1,
+    "height": 1.2,
+    "depth": 0.15
+  },
+  {
+    "type": "roof_gutter",
+    "name": "gutter_upper_back",
+    "path": "/assets/Roof/gutter_upper_back.glb",
+    "price": 150,
+    "width": 1.0,
+    "height": 1.2,
+    "depth": 0.15
+  },
+  {
+    "type": "roof_gutter",
+    "name": "gutter_upper_front",
+    "path": "/assets/Roof/gutter_upper_front.glb",
+    "price": 150,
+    "width": 1.0,
+    "height": 1.2,
+    "depth": 0.15
+  },
+  {
+    "type": "roof_gutter",
+    "name": "tube",
+    "path": "/assets/Roof/tube.glb",
+    "price": 150,
+    "width": 1.0,
+    "height": 1.8,
+    "depth": 0.15
+  }
+]
